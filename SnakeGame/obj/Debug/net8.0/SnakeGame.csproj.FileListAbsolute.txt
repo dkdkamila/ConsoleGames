@@ -1,0 +1,14 @@
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/bin/Debug/net8.0/SnakeGame
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/bin/Debug/net8.0/SnakeGame.deps.json
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/bin/Debug/net8.0/SnakeGame.runtimeconfig.json
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/bin/Debug/net8.0/SnakeGame.dll
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/bin/Debug/net8.0/SnakeGame.pdb
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/SnakeGame.AssemblyInfoInputs.cache
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/SnakeGame.AssemblyInfo.cs
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/SnakeGame.csproj.CoreCompileInputs.cache
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/SnakeGame.dll
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/refint/SnakeGame.dll
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/SnakeGame.pdb
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/SnakeGame.genruntimeconfig.cache
+/Users/dominikaberg/Desktop/ConsoleGames/SnakeGame/obj/Debug/net8.0/ref/SnakeGame.dll
