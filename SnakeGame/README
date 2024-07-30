@@ -1,0 +1,12 @@
+# Snake Game
+
+En enkel implementation av det klassiska spelet Snake i CSharp. Spelet körs i en konsol och använder piltangenterna för att styra ormen.
+
+## Funktioner
+
+- Styr ormen med piltangenterna
+- Pausa och återuppta spelet med `P`-tangenten
+- Återstarta spelet efter game over genom att trycka på `Enter`
+- Maten visas i röd färg
+- Poängräkning och nivåer
+- Spelets hastighet ökar med högre poäng
